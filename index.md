@@ -1,6 +1,10 @@
 {% include top-box.html %} <!-- Kode for å inkludere boksen på toppen av siden. Se _config.yml for å gjøre endringer. -->
 
 
+# Lenke til viktig informasjon
+Her er en lenke til viktig informasjon
+[Lenke viktig informasjon](viktig.md)
+
 ## Nyttig emneinformasjon
 Lorem ipsum, ipsum lorem.
 
